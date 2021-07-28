@@ -1,3 +1,3 @@
- # Quem você tirou?
+ # Who did you take?
  
-É um projeto relativamente simples onde usei tudo o que eu sei (até o momento) de JavaScript.
+ It was my first project studying javascript. After getting to know a little about the programming language, I tried to join it with the thing that I love the most in the world, anime kawaii girls.
